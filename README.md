@@ -1,4 +1,4 @@
-# Projekt_PowerBI
+# Projekt_PowerBI_Engeto
 ## Kritéria projektu
 1. Rozsah 2-3 stránky
 2. Použití minimálně 5 různých typů vizuálů
