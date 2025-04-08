@@ -27,3 +27,5 @@ Zaměřuje se na trendy podle věku matky, rodinného stavu, krajů a pořadí n
 Z dat vyplývá, že porodnost v Česku po roce 2008 pozvolna klesá. Roste průměrný věk matek, a nejvíce dětí se rodí ženám ve věku 30–34 let. 
 Významně se zvyšuje podíl nevdaných matek. Nejvíce dětí se dlouhodobě rodí ve Středočeském, Jihomoravském a Moravskoslezském kraji.
 
+Zdroj: data.gov.cz
+Autor: Pavlína Nováková
